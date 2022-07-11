@@ -1,6 +1,6 @@
 # ZeltFrontendLiveTest
 
-To start the app:
+To start the app run:
 
 ```
 npm install
